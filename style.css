@@ -11,14 +11,14 @@ span{
 section{
     display: flex;
 }
-#four{
+.four{
     border: 1px solid rgb(72, 74, 133);
     text-align: justify;
     border-radius: 20px;
     padding-left: 30px;
     padding-right: 15px;
 }
-img{
+#it{
     width: 500px;
     height: 700px;
     padding-right: 30%;
@@ -27,6 +27,7 @@ img{
 .fifth{
     width: 50%;
     padding: 0% 5% 0% 10%;
+    margin-bottom: 5%;
 }
 .fifth img{
     width: 80%;
@@ -42,5 +43,15 @@ img{
 }
 #seven{
     color: rgb(219, 17, 17);
-    font-weight: 900;
+    font-weight: 900; 
+}
+#nine{
+    display: flex;
+}
+.ten{
+    color: crimson;
+}
+.to{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
 }
