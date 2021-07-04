@@ -1,0 +1,45 @@
+span{
+    color: aqua;
+    
+}
+#first{
+    padding-left: 80px;
+}
+#second{
+    padding-left: 37px
+}
+section{
+    display: flex;
+}
+#four{
+    border: 1px solid rgb(72, 74, 133);
+    text-align: justify;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    padding-right: 30%;
+}
+.fifth{
+    width: 50%;
+    padding: 0% 5% 0% 10%;
+}
+.fifth img{
+    width: 80%;
+    height: 70%;
+
+}
+#six{
+    text-decoration:none;
+    color: white;
+    background-image:linear-gradient(orange,red);
+    border-radius: 4px;
+    font-weight: 800;
+}
+#seven{
+    color: rgb(219, 17, 17);
+    font-weight: 900;
+}
